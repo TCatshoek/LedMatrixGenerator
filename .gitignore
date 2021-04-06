@@ -24,3 +24,11 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+/venv/
+/venv2/
+
+*.erc
+*.log
+
+.idea

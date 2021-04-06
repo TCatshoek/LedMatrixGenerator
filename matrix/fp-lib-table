@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name kicad-keyboard-parts)(type KiCad)(uri /home/tom/projects/LedMatrixGenerator/kicad-keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name SMD_Pads)(type KiCad)(uri /home/tom/projects/LedMatrixGenerator/SMD_Pads.pretty)(options "")(descr ""))
+)

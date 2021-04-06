@@ -1,0 +1,3 @@
+[submodule "kicad-keyboard-parts.pretty"]
+	path = kicad-keyboard-parts.pretty
+	url = git@github.com:ebastler/kicad-keyboard-parts.pretty.git
